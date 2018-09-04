@@ -15,6 +15,9 @@
 - [@Fishrock123](https://github.com/Fishrock123) - Jeremiah Senkpiel
 - [@jasnell](https://github.com/jasnell) - James M Snell
 - [@joyeecheung](https://github.com/joyeecheung) - Joyee Cheung
+- [@kenchris](https://github.com/kenchris) - Kenneth Rohde Christiansen
+- [@ladyleet](https://github.com/ladyleet) - Tracy Lee
+- [@littledan](https://github.com/littledan) - Daniel Ehrenberg
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
