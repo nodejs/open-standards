@@ -1,5 +1,17 @@
 # Node.js Open Standards Team
 
+This repository provides a venue to discuss about open standards in the
+context of Node.js core.
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Resources
+
+- The [minutes](./minutes) folder contains minutes of past meetings
+  related to the Open Standards initiative.
+
 ## Team Members
 
 <!-- ncu-team-sync.team(nodejs/open-standards) -->
